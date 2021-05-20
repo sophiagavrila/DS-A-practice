@@ -1,14 +1,11 @@
 # Sorting-Practice
 Create your own implementations of both a **Bubble Sort** and **Merge Sort** algorithm.
-
 <br>
 
 ## Bubble Sort
 - Bubble Sort is the simplest sorting algorithm that works by repeatedly swapping the adjacent elements if they are in wrong order.
 - The average time complexity of Bubble Sort case is: ***O(n²)*** - Quadratic 
 - Here is a helpful resource on <a href="https://www.happycoders.eu/algorithms/bubble-sort/#:~:text=Bubble%20Sort%20is%20an%20easy,n)%20in%20the%20best%20case.">Bubble Sort and its Time Complexity</a>
-
-<br>
 
 ## Merge Sort
 - Merge Sort is a divide and conquer algorithm. It works by recursively breaking down a problem into two or more sub-problems of the same or related type, until these become simple enough to be solved directly. The solutions to the sub-problems are then combined to give a solution to the original problem.
