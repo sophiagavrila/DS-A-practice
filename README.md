@@ -1,5 +1,5 @@
 # Data Structures & Algorithms Practice
-> ***Optional!*** This assignemnt is NOT mandatory.  However, it's reccomended that you try to complete it. 
+> ***Optional!*** This assignment is NOT mandatory.  However, it's reccomended that you try to complete it. 
 
 <br>
 
