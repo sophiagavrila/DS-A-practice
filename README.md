@@ -1,5 +1,5 @@
 # Data Structures & Algorithms Practice
-> 🕙 **Due**: ***10:00am Monday May 24th*** I may ask you to walk me through your implementation in our one-on-one interview.
+> ***Optional!*** This assignemnt is NOT mandatory.  However, it's reccomended that you try to complete it. 
 
 <br>
 
